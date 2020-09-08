@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/steph-app/precache-manifest.56dc0280c17a33eba33a88064cdaf390.js"
+  "/steph-app/precache-manifest.6cf3499842acff1d6872ad9a4647c07b.js"
 );
 
 self.addEventListener('message', (event) => {
